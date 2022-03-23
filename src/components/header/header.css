@@ -1,0 +1,48 @@
+.headerController {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.logo {
+  height: 50px;
+}
+.headerSearch {
+  text-align: center;
+}
+.headerAuth {
+  text-align: right;
+}
+.equalLogo {
+  margin-top: 10px;
+}
+.menuPadding {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.menuBackgroundColor {
+  background-color: #1a1a1a;
+}
+.textWhite {
+  color: white;
+}
+.login:hover {
+  color: #e9815b;
+}
+.headerItem {
+  color: white;
+}
+.headerItem:hover {
+  color: #e9815b !important;
+}
+.loginLink {
+  color: #a7aaae;
+  cursor: pointer;
+}
+.loginLink:hover {
+  color: #e9815b;
+}
+a:hover {
+  color: #e9815b !important;
+}
+.anticon-user {
+  margin-top: 3px;
+}

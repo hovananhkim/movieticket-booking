@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.center {
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.w-full {
+  width: 100%;
+}
+.pl-0 {
+  padding-left: 0 !important;
+}
+.pr-0 {
+  padding-right: 0 !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.ant-tabs-tab:hover {
+  color: #e9815b !important;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #f26b38 !important;
+  text-shadow: 0 0 0.25px currentColor;
+}
+.ant-tabs-ink-bar {
+  background-color: #f26b38 !important;
+}
+.text-disable {
+  color: #a7aaae;
+}
+.borderInput .borderInput:hover {
+  border-color: #1890ff !important;
+}
+.button {
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #f26b38;
+  padding: 15px;
+  text-decoration: none;
+  line-height: 1;
+}
+.text-bold {
+  font-weight: bold;
+}
+.selected {
+  color: #f26b38 !important;
+}
+.ant-input:hover,
+.ant-input-search-button:hover {
+  border-color: #e9815b !important;
+}
+
+.ant-input:focus,
+.ant-input-search-button:focus {
+  border-color: #f26b38 !important;
+  box-shadow: none !important;
+}
+.ant-select-selector:hover,
+.ant-picker:hover {
+  border-color: #e9815b !important;
+  box-shadow: none !important;
+}
+.ant-select-selector:focus,
+.ant-picker:focus,
+.ant-picker-focused,
+.ant-select-focused {
+  border-color: #f26b38 !important;
+  box-shadow: none !important;
+}
+.ant-select-focused > .ant-select-selector {
+  border-color: #f26b38 !important;
+  box-shadow: none !important;
+}
+.ant-picker-cell-selected > .ant-picker-cell-inner {
+  background: #f26b38 !important;
+  color: white;
+}
+.ant-picker-today-btn {
+  color: #f26b38 !important;
+}
+.ant-picker-cell-in-view.ant-picker-cell-today .ant-picker-cell-inner:before {
+  border-color: #f26b38 !important;
+}
+.w-15 {
+  width: 15%;
+}
+.w-25 {
+  width: 25%;
+}
+.w-40 {
+  width: 40%;
+}
+.w-50 {
+  width: 50%;
+}
+.w-100 {
+  width: 100%;
+}
+.w-200px {
+  width: 200px !important;
+}
+.w-150px {
+  width: 150px !important;
+}
+.h-32px {
+  height: 32px !important;
+}
+.ml-0 {
+  margin-left: 0 !important;
+}
+.ml-5px {
+  margin-left: 5px;
+}
+.ml-10px {
+  margin-left: 10px;
+}
+.ant-empty-description {
+  display: none;
+}
+.ant-message-custom-content {
+  display: flex;
+}
+.payment {
+  width: 300px;
+}
+.input-disable {
+  height: 32px;
+  background-color: #a7aaae;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.body-component {
+  min-height: calc(100vh - 125px);
+}
+.ant-checkbox-checked > .ant-checkbox-inner {
+  background-color: #f26b38 !important;
+  border-color: #f26b38 !important;
+}
+.ant-checkbox-wrapper:hover > .ant-checkbox-inner,
+.ant-checkbox:hover > .ant-checkbox-inner,
+.ant-checkbox-input:focus + .ant-checkbox-inner {
+  border-color: #f26b38 !important;
+}
+.ant-checkbox-wrapper:hover > .ant-checkbox-inner {
+  border-color: red !important;
+}

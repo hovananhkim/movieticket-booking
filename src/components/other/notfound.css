@@ -1,0 +1,24 @@
+.not-found {
+  text-align: center;
+  padding-top: 230px;
+}
+.not-found-title {
+  font-size: large;
+  font-weight: bold;
+}
+.sorry {
+  color: #a7aaae;
+}
+.link {
+  color: black;
+}
+.line-parent {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.line {
+  margin-top: 10px;
+  width: 5%;
+  border-bottom: 5px solid black;
+}
